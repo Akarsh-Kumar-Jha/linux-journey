@@ -1,3 +1,7 @@
+# Linux Learning Journey
+
+A simple repository to document my Linux learning and daily terminal practice.
+
 ## Day 1 - Terminal Practice
 
 Practiced basic Linux commands and file operations.
