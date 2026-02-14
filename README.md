@@ -21,3 +21,21 @@ Learned and practiced:
 Tested different scenarios to understand how directory access works.
 
 ![Linux Practice Screenshot - Day 02](https://res.cloudinary.com/dlnzbkyit/image/upload/v1770972061/linux-day-02_cy4k9d.png)
+
+## Day 03 - find & grep
+
+Learned and practiced:
+
+- find (search by name, size, user, permission, inode)
+- recursive search
+- deleting empty files
+- grep basics and advanced usage
+- case-insensitive search
+- exact match, count, line numbers
+- multiple keywords using -E
+- recursive grep
+- searching patterns from a file
+
+Created dummy log files (100+ records each) to practice real search scenarios.
+![Linux Practice Screenshot - Day 03](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771061255/linux_day03_ajsrao.png)
+
