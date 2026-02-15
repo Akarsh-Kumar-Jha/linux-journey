@@ -39,3 +39,18 @@ Learned and practiced:
 Created dummy log files (100+ records each) to practice real search scenarios.
 ![Linux Practice Screenshot - Day 03](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771061255/linux_day03_ajsrao.png)
 
+
+## Day 04 - Advanced Search & Filtering
+
+Practiced combining find and grep for more realistic scenarios.
+
+Worked on:
+
+- Searching files by size, time and permission
+- Finding and deleting old .log files safely
+- Searching multiple keywords inside configuration files
+- Using -exec with {} and +
+- Understanding safe deletion practices
+
+![Linux Practice Screenshot - Day 04](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771155840/linux_day04_twhzvv.png)
+
