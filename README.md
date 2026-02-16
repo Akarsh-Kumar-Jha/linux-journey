@@ -54,3 +54,15 @@ Worked on:
 
 ![Linux Practice Screenshot - Day 04](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771155840/linux_day04_twhzvv.png)
 
+## Day 05 - Processes & System Monitoring
+
+Learned how processes work in Linux.
+
+Practiced ps, kill, top, free, nproc and disk monitoring.
+Simulated background processes and analyzed logs using find, grep and pipes.
+
+Focused on building real terminal confidence.
+
+![Linux Practice Screenshot - Day 05](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771227614/linux_day_05_dyngvq.png)
+
+
