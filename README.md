@@ -65,4 +65,16 @@ Focused on building real terminal confidence.
 
 ![Linux Practice Screenshot - Day 05](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771227614/linux_day_05_dyngvq.png)
 
+## Day 06 - Networking & Ports
+
+Learned networking basics: IP, ports, DNS and how systems communicate.
+
+Practiced ss, netstat, ping, nslookup, ip, hostname and curl.
+Tested APIs from terminal and checked port conflicts.
+
+Focused on building confidence in debugging backend networking issues.
+
+![Linux Practice Screenshot - Day 06](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771347897/linux_day06_suqlcd.png)
+
+
 
