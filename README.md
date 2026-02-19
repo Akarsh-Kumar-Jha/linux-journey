@@ -86,7 +86,19 @@ Installed Node.js, Docker and Nginx.
 
 Focused on understanding how Linux manages software at the system level.
 
+
 ![Linux Practice Screenshot - Day 07](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771401355/fc183bc2-6fac-410e-b956-b3f4138b29a8.png)
+
+## Day 08 - Environment Variables
+
+Learned how environment variables work in Ubuntu.
+
+Practiced viewing, setting and persisting variables.
+Understood PATH and .env basics for backend applications.
+
+
+![Linux Practice Screenshot - Day 08](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771488992/cb12952d-3226-47aa-8463-2ee4b8f2ac5d.png)
+
 
 
 
