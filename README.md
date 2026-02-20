@@ -100,6 +100,16 @@ Understood PATH and .env basics for backend applications.
 ![Linux Practice Screenshot - Day 08](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771488992/cb12952d-3226-47aa-8463-2ee4b8f2ac5d.png)
 
 
+## Day 09 - Services & systemctl
+
+Learned the difference between processes and services.
+
+Practiced managing services using systemctl (start, stop, restart, status, enable).
+Understood how production apps are managed and monitored.
+
+![Linux Practice Screenshot - Day 09](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771574850/43453c92-dd0f-4c39-8d3e-70565cb18609.png)
+
+
 
 
 
