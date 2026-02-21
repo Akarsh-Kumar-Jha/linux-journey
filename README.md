@@ -109,6 +109,16 @@ Understood how production apps are managed and monitored.
 
 ![Linux Practice Screenshot - Day 09](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771574850/43453c92-dd0f-4c39-8d3e-70565cb18609.png)
 
+## Day 10 - Docker Basics
+
+Learned how Docker works on Linux and how containers isolate applications.
+
+Practiced port mapping, volume mounts, environment variables,
+docker logs and docker exec for debugging.
+
+![Linux Practice Screenshot - Day 10](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771661372/4f8d1474-c59f-4961-9c66-432f90dc675a.png)
+
+
 
 
 
