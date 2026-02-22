@@ -118,6 +118,14 @@ docker logs and docker exec for debugging.
 
 ![Linux Practice Screenshot - Day 10](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771661372/4f8d1474-c59f-4961-9c66-432f90dc675a.png)
 
+## Day 11 - Node.js + MongoDB with Docker Compose
+
+Built and ran a containerized Node.js app with a MongoDB container.
+
+Practiced image builds, port mapping, logs, container management and Docker Compose workflow.
+
+![Linux Practice Screenshot - Day 11](https://res.cloudinary.com/dlnzbkyit/image/upload/v1771755082/54124445-08ac-4e90-95ae-3c74d8b5e331.png)
+
 
 
 
